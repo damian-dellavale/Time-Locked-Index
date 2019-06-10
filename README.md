@@ -1,5 +1,5 @@
 # Time-Locked-Index
-The TLI is a measure to quantify the harmonicity of noisy time series.
+The TLI is a measure to quantify the harmonicity of noisy time series. It was developed as part of our project aimed to distinguish "spurious" harmonic and "true" nonharmonic phase-amplitude cross-frequency coupling in simulated time series and experimental neural recordings.  
 
 # Description
 Besides the TLI function (/v0/function_TimeLockedIndex), you will find a main test script (/v0/test_TLI) and all the auxiliary functions required to compute the TLI for the dynamics of the Van der Pol oscillator.
