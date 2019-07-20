@@ -7,5 +7,5 @@ Besides the TLI function `/v0/function_TimeLockedIndex_v0`, you will find a main
 # Reference
 - Velarde O, Urdapilleta E, Mato G, and Dellavale D (2019), Bifurcation
   structure determines different phase-amplitude coupling patterns in the
-  activity of biologically plausible neural networks, NeuroImage, Under review,
-  (DOI: ...)
+  activity of biologically plausible neural networks, NeuroImage,
+  (DOI: 10.1016/j.neuroimage.2019.116031)
