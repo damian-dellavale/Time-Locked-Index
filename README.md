@@ -1,5 +1,5 @@
 # Time-Locked-Index
-The Time Locked Index (TLI) is a measure to quantify the harmonicity of noisy time series. It was developed as part of our project aimed to improve the characterization and interpretation of Cross Frequency Couplings (CFC) observed in neural recordings and multimodal time series in general.
+Time Locked Index (TLI) is a measure to quantify the harmonicity of noisy time series. It was developed as part of our project aimed to improve the characterization and interpretation of Cross Frequency Couplings (CFC) observed in neural recordings and multimodal time series in general.
 
 In Velarde et al (2019), we analytically demonstrate that phase-amplitude coupling (PAC) phenomenon naturally emerges in mean-field models of biologically plausible networks, as a signature of specific bifurcation structures. The proposed analysis, based on bifurcation theory and the quantification of harmonicity using the TLI metric, allowed us to identify the mechanisms underlying oscillatory dynamics that are essentially different in the context of PAC.
 
