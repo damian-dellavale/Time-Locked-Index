@@ -12,10 +12,11 @@ Besides the TLI function `/matlab/function_TimeLockedIndex_v0.m`, you will find 
 
 # References
 
-- Velarde O, Urdapilleta E, Mato G, and Dellavale D (2019), Bifurcation structure determines different phase-amplitude coupling patterns in the activity of biologically plausible neural networks, NeuroImage, Vol. 202, No. 116031, DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031)\
-  (Artwork selected to appear on the cover: [https://www.sciencedirect.com/journal/neuroimage/vol/202/](https://www.sciencedirect.com/journal/neuroimage/vol/202/))
+- Velarde O, Urdapilleta E, Mato G, and Dellavale D (2019), Bifurcation structure determines different phase-amplitude coupling patterns in the activity of biologically plausible neural networks, NeuroImage, Vol. 202, No. 116031, DOI: [10.1016/j.neuroimage.2019.116031](https://doi.org/10.1016/j.neuroimage.2019.116031).\
+Artwork selected to appear on the cover: [https://www.sciencedirect.com/journal/neuroimage/vol/202/](https://www.sciencedirect.com/journal/neuroimage/vol/202/)
 
-- Dellavale D, Urdapilleta E, Cámpora N, Velarde O, Kochen S, Mato G (2020), Two types of ictal phase-amplitude couplings in epilepsy patients revealed by spectral harmonicity of intracerebral EEG, Clinical Neurophysiology, Vol. 131, No. 8, 1866-1885, DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1016/j.clinph.2020.04.160)\
-  Preprint freely available at DOI: [10.1101/2020.03.13.991299](https://doi.org/10.1101/2020.03.13.991299)
+- Dellavale D, Urdapilleta E, Cámpora N, Velarde O, Kochen S, Mato G (2020), Two types of ictal phase-amplitude couplings in epilepsy patients revealed by spectral harmonicity of intracerebral EEG, Clinical Neurophysiology, Vol. 131, No. 8, 1866-1885, DOI: [10.1016/j.clinph.2020.04.160](https://doi.org/10.1016/j.clinph.2020.04.160).\
+Preprint freely available at DOI: [10.1101/2020.03.13.991299](https://doi.org/10.1101/2020.03.13.991299)
 
-- Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), Complex interplay between spectral harmonicity and different types of cross frequency couplings in non linear oscillators and biologically plausible neural network models, Phys. Rev. E 102(6), 062401, DOI: [10.1103/PhysRevE.102.062401](https://doi.org/10.1103/PhysRevE.102.062401). Preprint freely available at DOI: [10.1101/2020.10.15.341800](https://doi.org/10.1101/2020.10.15.341800)
+- Dellavale D, Velarde O, Mato G, Urdapilleta E (2020), Complex interplay between spectral harmonicity and different types of cross frequency couplings in non linear oscillators and biologically plausible neural network models, Phys. Rev. E 102(6), 062401, DOI: [10.1103/PhysRevE.102.062401](https://doi.org/10.1103/PhysRevE.102.062401).\
+Preprint freely available at DOI: [10.1101/2020.10.15.341800](https://doi.org/10.1101/2020.10.15.341800)
